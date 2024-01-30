@@ -19,6 +19,9 @@
 # misc
 .DS_Store
 *.pem
+data.js
+**/check/route.js
+.vscode
 
 # debug
 npm-debug.log*
